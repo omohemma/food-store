@@ -1,0 +1,224 @@
+{
+  "dishes": [
+    {
+      "category": "Asian",
+      "name": "Sushi Roll",
+      "calories": 250,
+      "carbs": 35,
+      "protein": 15,
+      "fat": 5,
+      "price": 8.99,
+      "url": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U3VzaGklMjBSb2xsfGVufDB8fDB8fHww&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Asian",
+      "name": "Pad Thai",
+      "calories": 400,
+      "carbs": 50,
+      "protein": 10,
+      "fat": 15,
+      "price": 9.99,
+      "url": "https://images.unsplash.com/photo-1559314809-0d155014e29e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8UGFkJTIwVGhhaXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Asian",
+      "name": "Miso Soup",
+      "calories": 70,
+      "carbs": 10,
+      "protein": 5,
+      "fat": 2,
+      "price": 3.99,
+      "url": "https://images.unsplash.com/photo-1555126634-323283e090fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWlzbyUyMFNvdXB8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Asian",
+      "name": "Bibimbap",
+      "calories": 500,
+      "carbs": 60,
+      "protein": 20,
+      "fat": 12,
+      "price": 11.99,
+      "url": "https://images.unsplash.com/photo-1600289031464-74d374b64991?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QmliaW1iYXB8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Mexican",
+      "name": "Taco",
+      "calories": 200,
+      "carbs": 20,
+      "protein": 12,
+      "fat": 8,
+      "price": 5.99,
+      "url": "https://images.unsplash.com/photo-1604467715878-83e57e8bc129?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8VGFjb3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Mexican",
+      "name": "Burrito",
+      "calories": 450,
+      "carbs": 40,
+      "protein": 20,
+      "fat": 15,
+      "price": 7.49,
+      "url": "https://images.unsplash.com/photo-1574343635105-4cf2ea136b8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QnVycml0b3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Mexican",
+      "name": "Enchiladas",
+      "calories": 300,
+      "carbs": 25,
+      "protein": 15,
+      "fat": 12,
+      "price": 6.99,
+      "url": "https://images.unsplash.com/photo-1570461226513-e08b58a52c53?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8RW5jaGlsYWRhc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Mexican",
+      "name": "Quesadilla",
+      "calories": 350,
+      "carbs": 30,
+      "protein": 18,
+      "fat": 15,
+      "price": 6.49,
+      "url": "https://images.unsplash.com/photo-1618040996337-56904b7850b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UXVlc2FkaWxsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Fast Food",
+      "name": "Cheeseburger",
+      "calories": 350,
+      "carbs": 30,
+      "protein": 20,
+      "fat": 18,
+      "price": 6.49,
+      "url": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZXNlYnVyZ2VyfGVufDB8fDB8fHww&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Fast Food",
+      "name": "French Fries",
+      "calories": 300,
+      "carbs": 40,
+      "protein": 4,
+      "fat": 15,
+      "price": 3.99,
+      "url": "https://images.unsplash.com/photo-1585109649139-366815a0d713?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZnJlbmNoJTIwZnJpZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Fast Food",
+      "name": "Chicken Nuggets",
+      "calories": 250,
+      "carbs": 20,
+      "protein": 15,
+      "fat": 12,
+      "price": 4.99,
+      "url": "https://plus.unsplash.com/premium_photo-1683657860186-6afce5df3c0a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Q2hpY2tlbiUyME51Z2dldHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Fast Food",
+      "name": "Pizza Slice",
+      "calories": 320,
+      "carbs": 30,
+      "protein": 12,
+      "fat": 16,
+      "price": 2.99,
+      "url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UGl6emElMjBTbGljZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "American",
+      "name": "BBQ Ribs",
+      "calories": 450,
+      "carbs": 10,
+      "protein": 30,
+      "fat": 35,
+      "price": 12.99,
+      "url": "https://images.unsplash.com/photo-1593030668930-8130abedd2b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QkJRJTIwUmlic3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "American",
+      "name": "Hamburger",
+      "calories": 400,
+      "carbs": 25,
+      "protein": 18,
+      "fat": 22,
+      "price": 8.99,
+      "url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGFtYnVyZ2VyfGVufDB8fDB8fHww&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "American",
+      "name": "Caesar Salad",
+      "calories": 150,
+      "carbs": 10,
+      "protein": 8,
+      "fat": 10,
+      "price": 5.99,
+      "url": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Q2Flc2FyJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "American",
+      "name": "Hot Dog",
+      "calories": 280,
+      "carbs": 20,
+      "protein": 10,
+      "fat": 18,
+      "price": 4.99,
+      "url": "https://images.unsplash.com/photo-1613482084286-41f25b486fa2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEhvdCUyMERvZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Vegetarian",
+      "name": "Caprese Salad",
+      "calories": 200,
+      "carbs": 8,
+      "protein": 10,
+      "fat": 15,
+      "price": 6.99,
+      "url": "https://images.unsplash.com/photo-1595587870672-c79b47875c6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q2FwcmVzZSUyMFNhbGFkfGVufDB8fDB8fHww&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Vegetarian",
+      "name": "Veggie Burger",
+      "calories": 300,
+      "carbs": 25,
+      "protein": 15,
+      "fat": 12,
+      "price": 7.49,
+      "url": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8VmVnZ2llJTIwQnVyZ2VyfGVufDB8fDB8fHww&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Vegetarian",
+      "name": "Mushroom Risotto",
+      "calories": 350,
+      "carbs": 40,
+      "protein": 10,
+      "fat": 8,
+      "price": 9.99,
+      "url": "https://images.unsplash.com/photo-1609770424775-39ec362f2d94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TXVzaHJvb20lMjBSaXNvdHRvfGVufDB8fDB8fHww&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Italian",
+      "name": "Margherita Pizza",
+      "calories": 280,
+      "carbs": 35,
+      "protein": 12,
+      "fat": 10,
+      "price": 10.99,
+      "url": "https://images.unsplash.com/photo-1595854341625-f33ee10dbf94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TWFyZ2hlcml0YSUyMFBpenphfGVufDB8fDB8fHww&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Italian",
+      "name": "Pasta Carbonara",
+      "calories": 400,
+      "carbs": 50,
+      "protein": 18,
+      "fat": 20,
+      "price": 11.99,
+      "url": "https://images.unsplash.com/photo-1608756687911-aa1599ab3bd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8UGFzdGElMjBDYXJib25hcmF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=96&q=60"
+    },
+    {
+      "category": "Italian",
+      "name": "Tiramisu",
+      "calories": 320,
+      "carbs": 25,
+      "protein": 5,
+      "fat": 22,
+      "price": 7.99,
+      "url": "https://images.unsplash.com/photo-1631206753348-db44968fd440?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFRpcmFtaXN1fGVufDB8fDB8fHww&auto=format&fit=crop&w=96&q=60"
+    }
+  ]
+}
