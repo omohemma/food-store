@@ -37,7 +37,7 @@ const store = useStore()
 const cartItems = computed(() => store.getters["cartItems"])
 const cartItemsTotal = computed(() => store.getters["cartItemsTotal"])
 const deliveryFee = computed(() => store.getters["deliveryFee"])
-const fee = computed(() => Number(deliveryFee.value).toFixed(2))
+const fee = computed(() => Number(((deliveryFee.value).toFixed(2))))
 const total = computed(() => Number((cartItemsTotal.value + deliveryFee.value).toFixed(2)))
 
 </script>
